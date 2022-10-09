@@ -4,5 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Anggra Alhera Nasmita Utomo ##
+
+Menyukai kode, tinggal di Pekanbaru.
+
+## Contact
+
+  * Email: [anggraalheranasmitautomo@gmail.com](mailto:anggraalheranasmitautomo@gmail.com)
+  * Facebook: [https://www.facebook.com/aalheranasmitautomo](https://www.facebook.com/aalheranasmitautomo)
