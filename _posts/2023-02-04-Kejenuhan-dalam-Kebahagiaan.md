@@ -6,7 +6,7 @@ tags: [keluh kesah]
 ---
 
 Karena pada hakikatnya, masyarakat saat ini adalah masyarakat yang memancarkan janji-janji manis kebahagiaan dan kejayaan hidup,
-namun membuatmu berlari 8 jam setiap 5 hari dalam kelelahan kesedihan dan keterasingan, bahkan seringkali kelaparan,
+namun membuatmu berlari 8 jam di 5 hari dalam kelelahan kesedihan dan keterasingan, bahkan seringkali kelaparan,
 hanya untuk meredakan kesedihan dan keterasingan orang lain yang juga masih merasa sedih dan terasing.
 
 Lalu, mengapa terus dilanjutkan meskipun masyarakat seperti ini hanya membawa kepedihan dan memperpanjang lingkaran eskapisme tak berujung?
