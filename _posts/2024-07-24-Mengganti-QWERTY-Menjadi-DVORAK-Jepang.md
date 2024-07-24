@@ -15,8 +15,8 @@ ingin belajar Katakana atau Hiragana.
 
 ![](/posts/20240724/belajar-hiragana-tofugu.png)
 
-Untuk belajar Hiragana kamu dapat mengunjungi link berikut Learn Hiragana: Tofugu's Ultimate Guide sedangkan Katakana di
-[Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) dan [Katakana](https://www.tofugu.com/japanese/learn-katakana/).
+Untuk belajar Hiragana kamu dapat mengunjungi link berikut [Hiragana](https://www.tofugu.com/japanese/learn-hiragana/)
+dan [Katakana](https://www.tofugu.com/japanese/learn-katakana/).
 
 ![](/posts/20240724/belajar-katakana-tofugu.png)
 
@@ -44,7 +44,7 @@ kbddvp.dll setelah itu aku klik OK dan merestart komputer. Setelah itu langsung 
 layout IME Jepang ini menjadi layout DVORAK.
 
 Demikian pengalaman singkat ini yang sengaja kutulis dengan maksud agar jika suatu saat aku hendak mengkonfigurasi
-komputer lain, aku tidak lupa jadi tinggal baca disini saja. Satu lagi untuk mengubah dari latin ke hiragna dapat
+komputer lain, aku tidak lupa jadi tinggal baca disini saja. Satu lagi untuk mengubah dari latin ke hiragana dapat
 menekan tombol alt + ~.
 
 ありがとうございます
